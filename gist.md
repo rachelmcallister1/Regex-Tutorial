@@ -4,13 +4,11 @@ Matching an Email
 
 Regex Pattern for Matching an Email: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ 
 
-Your Challenge this week is to create a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does. You'll use the template provided in the starter code to create your tutorial.
-
 ## Summary
 
 A regex, or a regular expression is a sequence of characters that deine a specific search patern. Each component of the regex has a uniqiue responsibility. The regex I wil be describing is the email. An example of the regex pattern to match an email is below. 
 
-Regex Pattern for Matching an Email: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ 
+Regex Pattern for Matching an Email:  /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ 
 
 ## Table of Contents
 
@@ -71,5 +69,5 @@ The backlash (\) in a regex escapes a character that would orignially be treated
 
 ## Author
 
-This tutorial is explained by Rachel McAllister. To find more information from Rachel McAllister, please visit [here] (https://github.com/rachelmcallister1)
+This tutorial is explained by Rachel McAllister. To find more information from Rachel McAllister, please visit https://github.com/rachelmcallister1
 
